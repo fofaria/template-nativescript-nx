@@ -2,7 +2,7 @@
     "name": "nativescript-nx",
     "version": "1.0.0",
     "description": "NativeScript for Angular Nx Workspace Template",
-    "author": "Nathan Walker <nwalker@nstudio.io>",
+    "author": "Fabio Faria <fabioofaria83@gmail.com>",
     "main": "main.js",
     "nativescript": {
         "id": "org.nativescript.nx"
@@ -20,9 +20,9 @@
     ],
     "repository": {
         "type": "git",
-        "url": "git://github.com/NathanWalker/template-nativescript-nx"
+        "url": "git://github.com/fofaria/template-nativescript-nx"
     },
-    "homepage": "https://github.com/NathanWalker/template-nativescript-nx",
+    "homepage": "https://github.com/fofaria/template-nativescript-nx",
     "android": {
         "v8Flags": "--expose_gc"
     },
